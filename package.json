@@ -1,0 +1,14 @@
+{
+  "name": "VideoCompressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luisc13/VideoCompressor.git",
+  "author": "GustavoBonfimS <gustavo.hbonfim@outlook.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
